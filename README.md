@@ -1,1 +1,1 @@
-## Getting started
+![GDG New Delhi <3 JS](https://github.com/InsaneNaman/javascript/blob/master/assets/images/gdgnd-js.png)

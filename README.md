@@ -72,20 +72,30 @@ You can use these resources to get explanation and docs on various concepts of J
 ---
 
 ## ECMAScript (ES)   
+> ECMAScript (ES) is a scripting language specification standardized by ECMAScript International. It is used by applications to enable client-side scripting. Languages like JavaScript, Jscript and ActionScript are governed by this specification.  
 ### ES6/ES2015
-* Intro
-* Blogs
-* Videos
+* __Intro__   
+   ECMAScript 6 (ES6, often referred to as “Harmony”) is the sixth major release of the ECMAScript language specification. JS uses standards defined by ECMAScript. 
+* __Blogs__
+  * [JavaScript — Just another introduction to ES6](https://medium.com/sons-of-javascript/javascript-an-introduction-to-es6-1819d0d89a0f)
+* __Questions__
+ 
+* __Videos__
+  * [ES6 - Beau teaches JavaScript](https://www.youtube.com/watch?v=1mgLWu69ijU&list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
+* __Links__
+  * [All ES6 Docs at one place](http://es6-features.org/#Constants)
    
 ### ES7/ES2016
-* Intro
-* Blogs
-* Videos   
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
 
 ### ES8/ES2017
-* Intro
-* Blogs
-* Videos
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__
 
 ## Awesome Youtube Channels   
 You can use these channels to learn JS and its frameworks/libraries .   

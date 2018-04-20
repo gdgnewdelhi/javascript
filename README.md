@@ -26,6 +26,7 @@
   * Task Runners- Gulp, npm Scripts, Grunt etc
   * Package Managers- npm, yarn etc.
   * Transpilers
+  * Testing 
 * Frameworks
   * Angular
   * Polymer.js

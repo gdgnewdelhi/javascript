@@ -6,11 +6,11 @@
 **5-To ask for help** - [Need-Help]   
 **6-To suggest something (New Idea/Way/Anything)** - [Suggestion]   
 **7-To add something new** - [Add]   
-**8-To ask for something urgent(Please, use this if you really thinks something needs urgent attention)** - [URGENT]   
+**8-To ask for something urgent (Please, use this if you really thinks something needs urgent attention)** - [URGENT]   
 **9-To update something(Delete/Update)** - [Update]   
 
 ## Template
-> **Title** : [Your Tag Goes Here] _Your Title Goes Here(Please be specific)_   
+> **Title** : [Your Tag Goes Here] _Your Title Goes Here (**Please be specific**)_   
 > **Description** : Add a link to the specific issue with some description   
 
 ## Example

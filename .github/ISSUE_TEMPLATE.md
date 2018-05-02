@@ -8,6 +8,7 @@
 **7-To add something new** - [Add]   
 **8-To ask for something urgent (Please, use this if you really thinks something needs urgent attention)** - [URGENT]   
 **9-To update something(Delete/Update)** - [Update]   
+**10 -To fix a typo** - [Typo]
 
 ## Template
 > **Title** : [Your Tag Goes Here] _Your Title Goes Here (**Please be specific**)_   

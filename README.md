@@ -28,13 +28,24 @@
   * Transpilers
   * Testing 
 * Frameworks
-  * Angular
-  * Polymer.js
-  * Node.js (Express, Restify, Hapi.js, Koa.js, Sails.js)
-  * React
-  * Meteor.js
-  * Electron.js 
-  * Others
+  * Front-End Frameworks
+    * Angular
+    * Polymer.js
+    * React.js
+    * Vue.js
+  * Back-End Frameworks (Node.js based)
+    * Sails.js
+    * Express.js
+    * Restify.js
+    * Hapi.js
+    * Koa.js
+    * Total.js
+  * Full Stack Frameworks
+    * Meteor.js
+    * Mean.js
+    
+  * Other Frameworks
+    * Electron.js
 * Libraries 
   * RxJs
   * ngrx
@@ -50,6 +61,7 @@
 * Awesome Blogs
 * Awesome Videos/talks
 * Awesome Youtube Channels   
+* Awesome Libraries
 * Awesome Free Website Templates
 ---
 
@@ -116,6 +128,23 @@ You can use these channels to learn JS and its frameworks/libraries .
 | [DevTips](https://www.youtube.com/user/DevTipsForDesigners/playlists) |  DevTips includes tutorials on Git, Web Designing, CSS  |   Web Designing, CSS, Bootstrap etc |
 | [Codecourse](https://www.youtube.com/user/phpacademy/playlists) |  Codecourse mostly talks about PHP and its frameworks but do include many other tutorials as well  |   PHP, Laravel, etc |
 | [The Coding Train](https://www.youtube.com/user/shiffman/playlists) | Coding train includes many topics like WebGL, physics in JS, tensorflow.js and many more |   WebGL, complex physics in JS, tensorflow.js, ES6 |   
+
+## Awesome Libraries   
+* __Blogs__   
+1- [10 Best Free Animation Libraries For The Web](https://www.webdesignerdepot.com/2018/01/10-best-free-animation-libraries-for-the-web/amp/?__twitter_impression=true)   
+
+* __Libraries__   
+  * __UI__   
+  1- [Notyf](http://carlosroso.com/notyf/) - A dead simple, responsive, vanilla javascript notification plugin. No jQuery required.   
+  2- [Parallax.js](https://pixelcog.github.io/parallax.js/) - Parallax.js is a dirt simple parallax scrolling effect inspired by Spotify.com and implemented as a jQuery plugin.   
+  3- [Stellar.js](http://markdalgleish.com/projects/stellar.js/) - Parallax has never been easier.   
+  4- [Relax.js](https://dixonandmoe.com/rellax/) - Parallax library based on VanillaJS   
+  
+  * __Utility__   
+  1- [Moment.js](https://momentjs.com/) - Parse, validate, manipulate, and display dates and times in JavaScript.   
+  2- [Lodash](https://lodash.com/) - A modern JavaScript utility library delivering modularity, performance & extras.   
+  3- [Underscore](http://underscorejs.org/) - Underscore is a JavaScript library that provides a whole mess of useful functional.   
+  4- 
 
 ## Awesome Free Websites Templates
 PS: All the links listed below provide free to use templates but __Please Make Sure That You Follow Their Guidelines before using them__ . 

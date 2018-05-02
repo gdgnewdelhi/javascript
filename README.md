@@ -50,7 +50,7 @@
 * Awesome Blogs
 * Awesome Videos/talks
 * Awesome Youtube Channels   
-
+* Awesome Free Website Templates
 ---
 
 ## Introduction 
@@ -113,3 +113,14 @@ You can use these channels to learn JS and its frameworks/libraries .
 | [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) |  Ex-spotify engineer releases awesome web tutorials|   Angular, React, Meteor, Node , Js libraries, New awesome js stuff and much more |
 | [Wes Bos](https://www.youtube.com/user/wesbos) |  Wes bos is one of the best tutor, web developer.  |   CSS Grid, ES6, HTML, JS and its frameworks |
 | [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) |  Net Ninja also covers many topics like Node.js GraphQL etc  |   React, Node.js, GraphQL and many more |
+| [DevTips](https://www.youtube.com/user/DevTipsForDesigners/playlists) |  DevTips includes tutorials on Git, Web Designing, CSS  |   Web Designing, CSS, Bootstrap etc |
+| [Codecourse](https://www.youtube.com/user/phpacademy/playlists) |  Codecourse mostly talks about PHP and its frameworks but do include many other tutorials as well  |   PHP, Laravel, etc |
+| [The Coding Train](https://www.youtube.com/user/shiffman/playlists) | Coding train includes many topics like WebGL, physics in JS, tensorflow.js and many more |   WebGL, complex physics in JS, tensorflow.js, ES6 |   
+
+## Awesome Free Websites Templates
+PS: All the links listed below provide free to use templates but __Please Make Sure That You Follow Their Guidelines before using them__ . 
+
+| __Resource__   | __Description__     | __Used For__  |
+| :-------------: |:-------------------:| :------------:|
+| [Themewagon](https://themewagon.com/theme_tag/free/)     | Themewagon provides many premium beatiful templates but they also have a huge collection of free templates | Bootstrap and Material Design based templates, UI kits |
+| [w3layouts](https://w3layouts.com/)      | w3layouts have a huge collection of free templates which can also be used an inspiration for your next project  |  Bootstrap, Material Design, Flat Design, UI Kits, UI components |

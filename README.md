@@ -20,13 +20,7 @@
 * Basic Component of a Web App/Website
   * Frontend 
   * Backend
-* Concepts- Tooling/ Linting/ Bundling etc
-  * Linters - ESLint, JSHint etc
-  * Module Bundlers - Webpack etc
-  * Task Runners- Gulp, npm Scripts, Grunt etc
-  * Package Managers- npm, yarn etc.
-  * Transpilers
-  * Testing 
+
 * Frameworks
   * Front-End Frameworks
     * Angular
@@ -42,14 +36,21 @@
     * Total.js
   * Full Stack Frameworks
     * Meteor.js
-    * Mean.js
-    
+    * Mean.js 
   * Other Frameworks
     * Electron.js
 * Libraries 
   * RxJs
   * ngrx
-  * Redux
+  * Redux   
+  
+* Concepts- Tooling/ Linting/ Bundling etc
+  * Linters - ESLint, JSHint etc
+  * Module Bundlers - Webpack etc
+  * Task Runners- Gulp, npm Scripts, Grunt etc
+  * Package Managers- npm, yarn etc.
+  * Transpilers
+  * Testing 
 * JS based technologies
   * Progressive Web Apps
   * Augumented Reality (AR)
@@ -109,6 +110,29 @@ You can use these resources to get explanation and docs on various concepts of J
 * __Blogs__
 * __Videos__
 * __Links__
+## How a Web App Works   
+* __Intro__   
+Web app is a client–server computer program which the client (including the user interface and client-side logic) runs in a web browser. Common web applications include webmail, online retail sales, online auctions, wikis, instant messaging services and many other functions. All the source code is hosted on server(A computer somewhere in this world or cloud like AWS/GCP/Azure etc) and any browser request it to access its content. We can classify website in two broad terms i.e, Static websites - whose content doesn't change like Portfolio Websites and Dynamic Websites - whose content keeps on changing like Facebook, Twitter etc.
+* __Blogs__
+  * [How Web Apps works ](https://selftaughtcoders.com/how-web-apps-work/)
+* __Videos__   
+  * [Website vs WebApps](https://www.youtube.com/watch?v=oj0SA_AVFNI)
+* __Links__
+  * [Stackoverflow-What's the difference between a web site and a web application?](https://stackoverflow.com/questions/8694922/whats-the-difference-between-a-web-site-and-a-web-application?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)   
+## Basic Component of a Web App/Website
+### Frontend
+* __Intro__
+"Front-end" typically means the parts of the webapp a user interacts with. Everything which is visible on a website like Dropdown, buttons, input fields, colors (UI) comes under Frontend. 
+* __Blogs__   
+  * [Top 10 Frontend Frameworks of 2018 by KeyCDN](https://www.keycdn.com/blog/front-end-frameworks/)
+* __Videos__   
+  * [Web Development in 2018 - A Practical Guide](https://www.youtube.com/watch?v=Zftx68K-1D4)
+  * []()
+* __Links__   
+  * [Stackoverflow- What is the definition / difference of “backend” and a “frontend” in a software development / project?](https://stackoverflow.com/questions/18348612/what-is-the-definition-difference-of-backend-and-a-frontend-in-a-software)
+* __Courses__   
+  * [Udacity- Front End Frameworks](https://in.udacity.com/course/front-end-frameworks--ud894)
+### Backend
 
 ## Awesome Youtube Channels   
 You can use these channels to learn JS and its frameworks/libraries .   

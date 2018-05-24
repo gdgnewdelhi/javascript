@@ -102,6 +102,8 @@ You can use these resources to get explanation and docs on various concepts of J
   * [ES6 - Beau teaches JavaScript](https://www.youtube.com/watch?v=1mgLWu69ijU&list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
 * __Links__
   * [All ES6 Docs at one place](http://es6-features.org/#Constants)
+* __Books__
+  * [You Don't Know JS by Getify](https://github.com/getify/You-Dont-Know-JS)
    
 ### ES7/ES2016
 * __Intro__
@@ -255,6 +257,41 @@ Web app is a client–server computer program which the client (including the us
 * __Videos__
 * __Links__   
 
+## Concepts
+### Linters   
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### Module Bundlers   
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### Task Runners   
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### Package Managers   
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### Transpilers   
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### Testing   
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+
+
+
+
 ## JS is Everywhere   
 ### Progressive Web Apps   
 * __Intro__
@@ -319,6 +356,7 @@ You can use these channels to learn JS and its frameworks/libraries .
   
 ## Awesome Github   
 * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)   
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ## Awesome Free Websites Templates
 PS: All the links listed below provide free to use templates but __Please Make Sure That You Follow Their Guidelines before using them__ . 

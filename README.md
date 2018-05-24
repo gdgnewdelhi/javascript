@@ -27,6 +27,7 @@
     * Polymer.js
     * React.js
     * Vue.js
+    * Ember.js
   * Back-End Frameworks (Node.js based)
     * Sails.js
     * Express.js
@@ -43,6 +44,7 @@
   * RxJs
   * ngrx
   * Redux   
+  * AngularFire   
   
 * Concepts- Tooling/ Linting/ Bundling etc
   * Linters - ESLint, JSHint etc
@@ -51,7 +53,7 @@
   * Package Managers- npm, yarn etc.
   * Transpilers
   * Testing 
-* JS based technologies
+* JS is Everywhere
   * Progressive Web Apps
   * Augumented Reality (AR)
   * Virtual Reality (VR)
@@ -63,7 +65,9 @@
 * Awesome Videos/talks
 * Awesome Youtube Channels   
 * Awesome Libraries
+* Awesome Github
 * Awesome Free Website Templates
+
 ---
 
 ## Introduction 
@@ -121,18 +125,162 @@ Web app is a client–server computer program which the client (including the us
   * [Stackoverflow-What's the difference between a web site and a web application?](https://stackoverflow.com/questions/8694922/whats-the-difference-between-a-web-site-and-a-web-application?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)   
 ## Basic Component of a Web App/Website
 ### Frontend
-* __Intro__
+* __Intro__   
 "Front-end" typically means the parts of the webapp a user interacts with. Everything which is visible on a website like Dropdown, buttons, input fields, colors (UI) comes under Frontend. 
 * __Blogs__   
   * [Top 10 Frontend Frameworks of 2018 by KeyCDN](https://www.keycdn.com/blog/front-end-frameworks/)
 * __Videos__   
   * [Web Development in 2018 - A Practical Guide](https://www.youtube.com/watch?v=Zftx68K-1D4)
-  * []()
 * __Links__   
   * [Stackoverflow- What is the definition / difference of “backend” and a “frontend” in a software development / project?](https://stackoverflow.com/questions/18348612/what-is-the-definition-difference-of-backend-and-a-frontend-in-a-software)
+  * [UpWork- Frontend vs Backend](https://www.upwork.com/hiring/for-clients/frontend-vs-backend-web-development/)
 * __Courses__   
   * [Udacity- Front End Frameworks](https://in.udacity.com/course/front-end-frameworks--ud894)
-### Backend
+### Backend   
+* __Intro__   
+"Back-end" covers the parts that webapps do, but the user is unaware of or cannot see for eg- Talking to the databases, making a 3rd party API request, running business logic etc.
+* __Blogs__   
+  * [5 Best Node.js Frameworks to Know](https://devops.com/5-best-node-js-frameworks-know/)
+  * [5 Popular Node.js Frameworks (And What They Do)](https://mayvendev.com/blog/5-popular-node-js-frameworks)
+* __Videos__   
+  * [Web Development in 2018 - A Practical Guide](https://www.youtube.com/watch?v=Zftx68K-1D4)
+* __Links__   
+  * [Stackoverflow- What is the definition / difference of “backend” and a “frontend” in a software development / project?](https://stackoverflow.com/questions/18348612/what-is-the-definition-difference-of-backend-and-a-frontend-in-a-software)   
+  * [UpWork- Frontend vs Backend](https://www.upwork.com/hiring/for-clients/frontend-vs-backend-web-development/)
+* __Courses__   
+  
+## Frameworks   
+### Front-End Frameworks
+### 1- Angular 
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### 2- Polymer.js 
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### 3- React.js 
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### 4- Vue.js 
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### 5- Ember.js 
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+   
+### Backend Frameworks   
+### 1- Sails.js 
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### 2- Express.js 
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### 3- Restify.js 
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### 4- Hapi.js 
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### 5- Koa.js 
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### 6- Total.js 
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+
+### Fullstack Frameworks   
+### 1- Meteor.js 
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### 2- MEAN.js 
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+
+### Other Frameworks   
+### 1- Electron.js 
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+
+## Libraries   
+### 1- RXJS 
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### 2- ngrx
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### 3- redux 
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### 4- NGXS 
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### 5- AngularFire 
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+
+## JS is Everywhere   
+### Progressive Web Apps   
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### Augumented Reality (AR)   
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### Virtual Reality (VR)   
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### Machine Learning (Tensorflow.js, Brain.js)   
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### GraphQL   
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
 
 ## Awesome Youtube Channels   
 You can use these channels to learn JS and its frameworks/libraries .   
@@ -168,7 +316,9 @@ You can use these channels to learn JS and its frameworks/libraries .
   1- [Moment.js](https://momentjs.com/) - Parse, validate, manipulate, and display dates and times in JavaScript.   
   2- [Lodash](https://lodash.com/) - A modern JavaScript utility library delivering modularity, performance & extras.   
   3- [Underscore](http://underscorejs.org/) - Underscore is a JavaScript library that provides a whole mess of useful functional.   
-  4- 
+  
+## Awesome Github   
+* [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)   
 
 ## Awesome Free Websites Templates
 PS: All the links listed below provide free to use templates but __Please Make Sure That You Follow Their Guidelines before using them__ . 

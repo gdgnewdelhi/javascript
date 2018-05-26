@@ -58,7 +58,6 @@
   * Augumented Reality (AR)
   * Virtual Reality (VR)
   * Machine Learning (Tensorflow.js, Brain.js)
-  * GraphQL
 
 ---------------- Awesome Random Stuff --------------------
 * Awesome Blogs
@@ -335,16 +334,17 @@ WebVR is an experimental JavaScript API that provides support for virtual realit
   * [A-Frame](https://aframe.io/)
   * [WebVR Rocks](https://webvr.rocks/)
 ### Machine Learning (Tensorflow.js, Brain.js)   
-* __Intro__
-* __Blogs__
-* __Videos__
+* __Intro__   
+Machine Learning can be implemented in the browser using some famous libraries like TensorFlow.js, Brain.js and many others.
+* __Blogs__   
+  * [Introducing TensorFlow.js: Machine Learning in Javascript](https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db)
+  * [A Web Developer's Guide to Machine Learning in JavaScript](https://www.robinwieruch.de/machine-learning-javascript-web-developers/)
+* __Videos__   
+  * [YT- Machine Learning in JavaScript (TensorFlow Dev Summit 2018)](https://youtu.be/YB-kfeNIPCE)
+  * [YT(Playlist)-Introduction to TensorFlow.js - Intelligence and Learning](https://www.youtube.com/watch?v=Qt3ZABW5lD0&list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ)
+  * [Machine Learning Tutorial for Beginners - USING JAVASCRIPT!](https://www.youtube.com/watch?v=9Hz3P1VgLz4)
 * __Links__   
-### GraphQL   
-* __Intro__
-* __Blogs__
-* __Videos__
-* __Links__   
-
+  * [Tensorflow.js](https://js.tensorflow.org/)
 ## Awesome Youtube Channels   
 You can use these channels to learn JS and its frameworks/libraries .   
 

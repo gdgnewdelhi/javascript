@@ -307,11 +307,12 @@ Progressive Web Apps are user experiences that have the reach of the web, and ar
   * [PWAs on Medium](https://medium.com/progressive-web-apps)
 * __Courses__   
   * [Codelabs by Google Developers](https://developers.google.com/web/fundamentals/codelabs/)
-  * [Progressive Web App Training by Google Developers](https://developers.google.com/web/ilt/pwa/)
+  * [Progressive Web App Training by Google Developers](https://developers.google.com/web/ilt/pwa/)   
+  
 ### Augumented Reality (AR)   
 * __Intro__   
 Web also supports AR with the help of some cool libraries. You just need a browser to make a WebAR app.   
-* __Libraries   
+* __Libraries__   
   * [AR.js](https://jeromeetienne.github.io/AR.js/)
   * [Google ARCore](https://developers.google.com/ar/develop/web/quickstart)
 * __Blogs__   
@@ -329,7 +330,7 @@ WebVR is an experimental JavaScript API that provides support for virtual realit
 * __Links__   
   * [WebVR Experiments by Google](https://experiments.withgoogle.com/collection/webvr)
   * [WebVR by Google Developers](https://developers.google.com/web/fundamentals/vr/) 
-  * [Mixed Reality by Mozilla](https://mixedreality.mozilla.org/)
+  * [Mixed Reality by Mozilla](https://mixedreality.mozilla.org/)   
 * __Libraries__
   * [A-Frame](https://aframe.io/)
   * [WebVR Rocks](https://webvr.rocks/)

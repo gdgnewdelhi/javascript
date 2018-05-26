@@ -294,20 +294,45 @@ Web app is a client–server computer program which the client (including the us
 
 ## JS is Everywhere   
 ### Progressive Web Apps   
-* __Intro__
+* __Intro__   
+Progressive Web Apps are user experiences that have the reach of the web, and are: Reliable(Load instantly and never show the downasaur, even in uncertain network conditions), Fast(Respond quickly to user interactions with silky smooth animations and no janky scrolling) and Engaging(Feel like a natural app on the device, with an immersive user experience). You can use any framework like React, Angular, Polymer or even plane vanilla JS for creating PWA.
 * __Blogs__
+  * [React Progressive Web Apps — Part 1](https://medium.com/progressive-web-apps/react-progressive-web-apps-part-1-1cf381421672)
 * __Videos__
+  * [YT- Using Firebase to make a PWA (Progressive Web App) #AskFirebase](https://www.youtube.com/watch?v=iHqqUoqvYx4)
+  * [YT- Progressive Web Apps with Angular](https://www.youtube.com/watch?v=51Nd_mTpugY)
+  * [YT- PWAs vs Native (aka There's A Progressive Web App For That)](https://youtu.be/vhg01Ml-8pI)
 * __Links__   
+  * [Progressive Web Apps by Google Developers](https://developers.google.com/web/progressive-web-apps/)
+  * [PWAs on Medium](https://medium.com/progressive-web-apps)
+* __Courses__   
+  * [Codelabs by Google Developers](https://developers.google.com/web/fundamentals/codelabs/)
+  * [Progressive Web App Training by Google Developers](https://developers.google.com/web/ilt/pwa/)
 ### Augumented Reality (AR)   
-* __Intro__
-* __Blogs__
+* __Intro__   
+Web also supports AR with the help of some cool libraries. You just need a browser to make a WebAR app.   
+* __Libraries   
+  * [AR.js](https://jeromeetienne.github.io/AR.js/)
+  * [Google ARCore](https://developers.google.com/ar/develop/web/quickstart)
+* __Blogs__   
+  * [Augmented Reality in 10 Lines of HTML](https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf)
 * __Videos__
+  * [Easy Augmented Reality (AR) With JavaScript | AR.js | A-Frame](https://youtu.be/Nc1dPd6gIRU)
 * __Links__   
+
 ### Virtual Reality (VR)   
-* __Intro__
-* __Blogs__
-* __Videos__
+* __Intro__   
+WebVR is an experimental JavaScript API that provides support for virtual reality devices, such as the HTC Vive, Oculus Rift, Google Cardboard or OSVR in a web browser. Experience Virtual Reality right into the browser. 
+* __Blogs__    
+* __Videos__   
+  * [Future of the VR Web - Josh Carpenter UX Lead for WebVR at Google](https://youtu.be/8Ev7Wh9dSfo)
 * __Links__   
+  * [WebVR Experiments by Google](https://experiments.withgoogle.com/collection/webvr)
+  * [WebVR by Google Developers](https://developers.google.com/web/fundamentals/vr/) 
+  * [Mixed Reality by Mozilla](https://mixedreality.mozilla.org/)
+* __Libraries__
+  * [A-Frame](https://aframe.io/)
+  * [WebVR Rocks](https://webvr.rocks/)
 ### Machine Learning (Tensorflow.js, Brain.js)   
 * __Intro__
 * __Blogs__

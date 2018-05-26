@@ -224,36 +224,60 @@ Web app is a client–server computer program which the client (including the us
 
 ### Other Frameworks   
 ### 1- Electron.js 
-* __Intro__
-* __Blogs__
-* __Videos__
+* __Intro__   
+Build cross platform __desktop apps__ with JavaScript, HTML, and CSS. [electronjs.org](https://electronjs.org/)
+* __Blogs__   
+  * [Vue.js & Electron: The easy way](https://medium.com/@mikeal/vue-js-electron-the-easy-way-adc3ca09234a)
+  * [Here’s how I created a markdown app with Electron and React](https://medium.freecodecamp.org/heres-how-i-created-a-markdown-app-with-electron-and-react-1e902f8601ca)
+  * [Desktop apps with Angular](https://angularfirebase.com/lessons/desktop-apps-with-electron-and-angular/)
+* __Videos__   
+  * [YT- Desktop Apps with Angular](https://youtu.be/u_vMChpZMCk)
 * __Links__   
+  * 
 
 ## Libraries   
 ### 1- RXJS 
-* __Intro__
-* __Blogs__
-* __Videos__
+* __Intro__   
+Reactive programming is an asynchronous programming paradigm concerned with data streams and the propagation of change (Wikipedia). RxJS (Reactive Extensions for JavaScript) is a library for reactive programming using observables that makes it easier to compose asynchronous or callback-based code (RxJS Docs).
+* __Blogs__   
+  * [RxJS blogs on medium](https://medium.com/tag/rxjs)
+  * [RxJS by Example](https://codeburst.io/rxjs-by-example-part-1-ff7f1530071c)
+  * [RxJS in 5 minutes](https://codeburst.io/rxjs-5-in-5-minutes-1c3b4ed0d8cc)
+* __Videos__   
+  * [RxJS in depth](https://youtu.be/KOOT7BArVHQ)
 * __Links__   
 ### 2- ngrx
-* __Intro__
-* __Blogs__
-* __Videos__
+* __Intro__   
+RxJS powered state management for Angular applications, inspired by Redux.
+* __Blogs__   
+  * [ngrx series on Medium](https://medium.com/ngrx)
+* __Videos__   
+  * [Angular ngrx Redux Quick Start Tutorial](https://youtu.be/f97ICOaekNU)
+  * [Ngrx Store Tutorial for Angular - Learn State Management for Angular](https://youtu.be/9P5DTlg9oLc)
 * __Links__   
 ### 3- redux 
-* __Intro__
-* __Blogs__
-* __Videos__
+* __Intro__   
+Redux is a predictable state container for JavaScript apps. [https://redux.js.org/](https://redux.js.org/)
+* __Blogs__   
+  * [ReactJS Todo app tutorial with Redux](https://medium.com/@nomanbinhussein/reactjs-todo-app-tutorial-with-redux-57ca14cae621)
+* __Videos__   
+  * [Redux Crash Course With React](https://youtu.be/93p3LxR9xfM)
 * __Links__   
 ### 4- NGXS 
-* __Intro__
+* __Intro__    
+NGXS is a state management pattern + library for Angular. 
 * __Blogs__
-* __Videos__
+* __Videos__   
+  * [YT-NGXS - Angular State Management](https://youtu.be/SGj11j4hxmg)
+  * [YT-Angular NGXS Tutorial - An Alternative to Ngrx for State Management](https://www.youtube.com/watch?v=SfiO3bDUK7Q)
 * __Links__   
 ### 5- AngularFire 
-* __Intro__
-* __Blogs__
-* __Videos__
+* __Intro__   
+AngularFire is a library that can help you to use firebase with Angular. [https://github.com/angular/angularfire2](https://github.com/angular/angularfire2)
+* __Blogs__   
+  * [Building An Angular 5 Project with Bootstrap 4 and Firebase](https://medium.com/codingthesmartway-com-blog/building-an-angular-5-project-with-bootstrap-4-and-firebase-4504ff7717c1)
+* __Videos__   
+  * [YT- Firestore with AngularFire5 Quick Start Tutorial](https://youtu.be/-GjF9pSeFTs)
 * __Links__   
 
 ## Concepts

@@ -386,7 +386,8 @@ You can use these channels to learn JS and its frameworks/libraries .
 | [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) |  Net Ninja also covers many topics like Node.js GraphQL etc  |   React, Node.js, GraphQL and many more |
 | [DevTips](https://www.youtube.com/user/DevTipsForDesigners/playlists) |  DevTips includes tutorials on Git, Web Designing, CSS  |   Web Designing, CSS, Bootstrap etc |
 | [Codecourse](https://www.youtube.com/user/phpacademy/playlists) |  Codecourse mostly talks about PHP and its frameworks but do include many other tutorials as well  |   PHP, Laravel, etc |
-| [The Coding Train](https://www.youtube.com/user/shiffman/playlists) | Coding train includes many topics like WebGL, physics in JS, tensorflow.js and many more |   WebGL, complex physics in JS, tensorflow.js, ES6 |   
+| [The Coding Train](https://www.youtube.com/user/shiffman/playlists) | Coding train includes many topics like WebGL, physics in JS, tensorflow.js, ml5.js which is built on top of TF.js and many more |   WebGL, complex physics in JS, tensorflow.js, ES6 |   
+| [React Cast](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ) | ReactCasts is a good youtube channels which has many short ReactJS screencast and also covers Redux |   ReactJS , Redux , ES6 |   
 
 ## Awesome Libraries   
 * __Blogs__   

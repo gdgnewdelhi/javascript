@@ -14,46 +14,46 @@
 * [Some famous references](#some-famous-references)
   * MDN, w3schools, csstrick etc.
 * [ECMAScript (ES)](#ecmascript-es)
-  * ES6/ES2015
-  * ES7/ES2016
-  * ES8/ES2017
+  * [ES6/ES2015](#es6es2015)
+  * [ES7/ES2016](es7es2016)
+  * [ES8/ES2017](#es8es2017)
 * [How a Web App works](#how-a-web-app-works)
 * [Basic Component of a Web App/Website](#basic-component-of-a-web-appwebsite)
-  * Frontend 
-  * Backend
+  * [Frontend](#frontend) 
+  * [Backend](#backend)
 
 * [Frameworks](#frameworks)
   * [Front-End Frameworks](#front-end-frameworks)
-    * Angular
-    * Polymer.js
-    * React.js
-    * Vue.js
-    * Ember.js
+    * [Angular](#1--angular)
+    * [Polymer.js](#2--polymerjs)
+    * [React.js](#3--reactjs)
+    * [Vue.js](#4--vuejs)
+    * [Ember.js](#5--emberjs)
   * [Back-End Frameworks (Node.js based)](#backend-frameworks)
-    * Sails.js
-    * Express.js
-    * Restify.js
-    * Hapi.js
-    * Koa.js
-    * Total.js
+    * [Sails.js](#1--sailsjs)
+    * [Express.js](#2--expressjs)
+    * [Restify.js](#3--restifyjs)
+    * [Hapi.js](#4--hapijs)
+    * [Koa.js](#5--koajs)
+    * [Total.js](#6--totaljs)
   * [Full Stack Frameworks](#fullstack-frameworks)
-    * Meteor.js
-    * Mean.js 
+    * [Meteor.js](#1--meteorjs)
+    * [Mean.js](#2--meanjs) 
   * [Other Frameworks](#other-frameworks)
-    * Electron.js
+    * [Electron.js](#1--electronjs)
 * [Libraries](#libraries) 
-  * RxJs
-  * ngrx
-  * Redux   
-  * AngularFire   
+  * [RxJs](#1--rxjs)
+  * [ngrx](#2--ngrx)
+  * [Redux](#3--redux)   
+  * [AngularFire](#5--angularfire)   
   
 * [Concepts- Tooling/ Linting/ Bundling etc](#concepts)
-  * Linters - ESLint, JSHint etc
-  * Module Bundlers - Webpack etc
-  * Task Runners- Gulp, npm Scripts, Grunt etc
-  * Package Managers- npm, yarn etc.
-  * Transpilers
-  * Testing 
+  * [Linters - ESLint, JSHint etc](#linters)
+  * [Module Bundlers - Webpack etc](#module-bundlers)
+  * [Task Runners- Gulp, npm Scripts, Grunt etc](#task-runners)
+  * [Package Managers- npm, yarn etc.](#package-managers)
+  * [Transpilers](#transpilers)
+  * [Testing](#testing) 
 * [JS is Everywhere](#js-is-everywhere)
   * [Progressive Web Apps](#progressive-web-apps)
   * [Augumented Reality (AR)](#augumented-reality-ar)

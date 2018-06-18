@@ -9,7 +9,8 @@
 <br/> 
 
 ## Table of Contents   
-* Introduction
+* Introduction   
+* How to use guide.
 * Some famous references
   * MDN, w3schools, csstrick etc.
 * ECMAScript (ES)
@@ -70,12 +71,16 @@
 ---
 
 ## Introduction 
-> JavaScript is the most widely deployed language in the world. Whether you’re interested in writing front-end client side code, back-end code for servers, or even game development, you’ll be able to accomplish all of this and more with JavaScript. 
+> JavaScript is the most widely deployed language in the world. Whether you’re interested in writing front-end client side code, back-end code for servers, or even game development, you’ll be able to accomplish all of this and more with JavaScript.
 
 
 In simple words, we can say that with the help of JS, one can create fully functional __dynamic website__, __Games__ , desktop apps for __Windows/Linux/Mac__ and even cross platform native apps for __Android and iOS__.   
 
---- 
+---   
+
+## How To Use Guide   
+This repo has an Index which you can brief you about all the content(TOC). This guide covers all the JS frameworks like Angular, React etc, some bleeding edge technologies like Bots/ AR / VR /ML using JS, development cycle specific topics like Linting, Testing etc and some random things like UI libraries/Ebooks etc. So, please refer to [Table of Content](#table-of-contents) to get max out of it. 
+   
 ## Some Famous References   
 You can use these resources to get explanation and docs on various concepts of JS and web .   
 

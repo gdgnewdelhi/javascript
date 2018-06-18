@@ -9,64 +9,64 @@
 <br/> 
 
 ## Table of Contents   
-* Introduction   
+* [Introduction](#introduction)   
 * How to use guide.
-* Some famous references
+* [Some famous references](#some-famous-references)
   * MDN, w3schools, csstrick etc.
-* ECMAScript (ES)
+* [ECMAScript (ES)](#ecmascript-es)
   * ES6/ES2015
   * ES7/ES2016
   * ES8/ES2017
-* How a Web App works
-* Basic Component of a Web App/Website
+* [How a Web App works](#how-a-web-app-works)
+* [Basic Component of a Web App/Website](#basic-component-of-a-web-appwebsite)
   * Frontend 
   * Backend
 
-* Frameworks
-  * Front-End Frameworks
+* [Frameworks](#frameworks)
+  * [Front-End Frameworks](#front-end-frameworks)
     * Angular
     * Polymer.js
     * React.js
     * Vue.js
     * Ember.js
-  * Back-End Frameworks (Node.js based)
+  * [Back-End Frameworks (Node.js based)](#backend-frameworks)
     * Sails.js
     * Express.js
     * Restify.js
     * Hapi.js
     * Koa.js
     * Total.js
-  * Full Stack Frameworks
+  * [Full Stack Frameworks](#fullstack-frameworks)
     * Meteor.js
     * Mean.js 
-  * Other Frameworks
+  * [Other Frameworks](#other-frameworks)
     * Electron.js
-* Libraries 
+* [Libraries](#libraries) 
   * RxJs
   * ngrx
   * Redux   
   * AngularFire   
   
-* Concepts- Tooling/ Linting/ Bundling etc
+* [Concepts- Tooling/ Linting/ Bundling etc](#concepts)
   * Linters - ESLint, JSHint etc
   * Module Bundlers - Webpack etc
   * Task Runners- Gulp, npm Scripts, Grunt etc
   * Package Managers- npm, yarn etc.
   * Transpilers
   * Testing 
-* JS is Everywhere
-  * Progressive Web Apps
-  * Augumented Reality (AR)
-  * Virtual Reality (VR)
-  * Machine Learning (Tensorflow.js, Brain.js)
+* [JS is Everywhere](#js-is-everywhere)
+  * [Progressive Web Apps](#progressive-web-apps)
+  * [Augumented Reality (AR)](#augumented-reality-ar)
+  * [Virtual Reality (VR)](#virtual-reality-vr)
+  * [Machine Learning (Tensorflow.js, Brain.js)](#machine-learning-tensorflowjs-brainjs)
 
 ---------------- Awesome Random Stuff --------------------
-* Awesome Blogs
-* Awesome Videos/talks
-* Awesome Youtube Channels   
-* Awesome Libraries
-* Awesome Github
-* Awesome Free Website Templates
+* [Awesome Blogs]()
+* [Awesome Videos/talks]()
+* [Awesome Youtube Channels](#awesome-youtube-channels)   
+* [Awesome Libraries](#awesome-libraries)
+* [Awesome Github](#awesome-github)
+* [Awesome Free Website Templates](#awesome-free-websites-templates)
 
 ---
 
@@ -96,7 +96,7 @@ You can use these resources to get explanation and docs on various concepts of J
 ## ECMAScript (ES)   
 > ECMAScript (ES) is a scripting language specification standardized by ECMAScript International. It is used by applications to enable client-side scripting. Languages like JavaScript, Jscript and ActionScript are governed by this specification.  
 ### ES6/ES2015
-* __Intro__
+* __Intro__   
    ECMAScript 6 (ES6, often referred to as “Harmony”) is the sixth major release of the ECMAScript language specification. JS uses standards defined by ECMAScript. 
 * __Blogs__
   * [JavaScript — Just another introduction to ES6](https://medium.com/sons-of-javascript/javascript-an-introduction-to-es6-1819d0d89a0f)   
@@ -110,17 +110,21 @@ You can use these resources to get explanation and docs on various concepts of J
   * [You Don't Know JS by Getify](https://github.com/getify/You-Dont-Know-JS)
    
 ### ES7/ES2016
-* __Intro__
+* __Intro__   
+ECMAScript 8 or ECMAScript 2016 was official release of year 2016.
 * __Blogs__
+  * [Node University: ES7 and ES8 Features](https://node.university/blog/1621685/es7es8)
 * __Videos__
+  * [(YT) JavaScript ES6, ES7, ES8: Learn to Code on the Bleeding Edge](https://youtu.be/nZ1DMMsyVyI)
 * __Links__   
 
 ### ES8/ES2017
 * __Intro__   
-ECMAScript 8 or ECMAScript 2017 was officially released at the end of June by TC39
+ECMAScript 8 or ECMAScript 2017 was officially released at the end of June 2017 by TC39
 * __Blogs__
   * [ES8 was Released and here are its Main New Features by HackerNoon](https://hackernoon.com/es8-was-released-and-here-are-its-main-new-features-ee9c394adf66)
 * __Videos__
+  * [(YT) JavaScript ES6, ES7, ES8: Learn to Code on the Bleeding Edge](https://youtu.be/nZ1DMMsyVyI)
 * __Links__
 ## How a Web App Works   
 * __Intro__   

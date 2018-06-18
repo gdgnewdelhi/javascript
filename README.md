@@ -96,12 +96,12 @@ You can use these resources to get explanation and docs on various concepts of J
 ## ECMAScript (ES)   
 > ECMAScript (ES) is a scripting language specification standardized by ECMAScript International. It is used by applications to enable client-side scripting. Languages like JavaScript, Jscript and ActionScript are governed by this specification.  
 ### ES6/ES2015
-* __Intro__   
+* __Intro__
    ECMAScript 6 (ES6, often referred to as “Harmony”) is the sixth major release of the ECMAScript language specification. JS uses standards defined by ECMAScript. 
 * __Blogs__
-  * [JavaScript — Just another introduction to ES6](https://medium.com/sons-of-javascript/javascript-an-introduction-to-es6-1819d0d89a0f)
+  * [JavaScript — Just another introduction to ES6](https://medium.com/sons-of-javascript/javascript-an-introduction-to-es6-1819d0d89a0f)   
 * __Questions__
- 
+  * [JavaScript — WTF is ES6, ES8, ES 2017, ECMAScript… ?](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c)
 * __Videos__
   * [ES6 - Beau teaches JavaScript](https://www.youtube.com/watch?v=1mgLWu69ijU&list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
 * __Links__
@@ -116,8 +116,10 @@ You can use these resources to get explanation and docs on various concepts of J
 * __Links__   
 
 ### ES8/ES2017
-* __Intro__
+* __Intro__   
+ECMAScript 8 or ECMAScript 2017 was officially released at the end of June by TC39
 * __Blogs__
+  * [ES8 was Released and here are its Main New Features by HackerNoon](https://hackernoon.com/es8-was-released-and-here-are-its-main-new-features-ee9c394adf66)
 * __Videos__
 * __Links__
 ## How a Web App Works   

@@ -179,7 +179,9 @@ Angular is a JavaScript-based open-source front-end web application framework ma
   * [(YT)Learn Angular 6 in 60 Minutes - Free Beginners Crash Course by DesignCourse](https://youtu.be/z4JUm0Bq9AM)
   * [(YT)Getting Started with Angular 6 Material (Tutorial) by DesignCourse](https://www.youtube.com/watch?v=Fcr-gM-QThc)
   * [(YT)Setting up Angular 6 SEO in a Few Seconds? I'll show you how by DesignCourse](https://youtu.be/hxG9nuvnh-A)
-* __Links__   
+* __Links__
+  * [www.angular.io](https://angular.io/)
+
 ### 2- Polymer.js 
 * __Intro__   
 Polymer is an open-source JavaScript library for building web applications using Web Components. The library is being developed by Google developers and contributors on GitHub. 
@@ -187,8 +189,9 @@ Polymer is an open-source JavaScript library for building web applications using
   * [Polymer 3.0 Preview — Building a mini card game](https://medium.com/@jecelynyeen/polymer-3-0-preview-building-a-mini-card-game-ce8948265fd6)
   * [Getting started with Polymer 3.0](https://medium.com/@achuth.hadnoor/getting-started-with-polymer-3-0-b476f517ac0)
 * __Videos__
-  * [Web Components and the Polymer Project: Polymer 3.0 and beyond (Google I/O '18)](https://youtu.be/7CUO7PyD5zA)
-* __Links__   
+  * [(YT) Web Components and the Polymer Project: Polymer 3.0 and beyond (Google I/O '18)](https://youtu.be/7CUO7PyD5zA)
+* __Links__
+  * [www.polymer-project.org](https://www.polymer-project.org/)
 ### 3- React.js 
 * __Intro__   
 React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.
@@ -196,30 +199,53 @@ React is a JavaScript library for building user interfaces. It is maintained by 
   * [How to build a React project from scratch using Webpack 4 and Babel](https://hackernoon.com/how-to-build-a-react-project-from-scratch-using-webpack-4-and-babel-56d4a26afd32)
   * [Getting Started With React And GraphQL](https://medium.com/codingthesmartway-com-blog/getting-started-with-react-and-graphql-395311c1e8da)
 * __Videos__
-  * [ReactJS Tutorial for Beginners - Getting Started with React](https://youtu.be/pgAvVxowaYU)
-* __Links__   
+  * [(YT) ReactJS Tutorial for Beginners - Getting Started with React](https://youtu.be/pgAvVxowaYU)
+* __Links__
+  * [reactjs.org](https://reactjs.org/)
 ### 4- Vue.js 
 * __Intro__
+Vue.js is an open-source JavaScript framework for building user interfaces. 
 * __Blogs__
+  * [Vue.js Developers](https://medium.com/js-dojo/tagged/vuejs)
+  * [Getting started with Vue 2](https://medium.com/viithiisys/getting-started-with-vue-2-7a2423bdcb23)
 * __Videos__
-* __Links__   
+  * [(YT) Vue JS 2 Tutorial Series(Playlist)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
+  * [(YT) Vue.js 2.0 In 60 Minutes](https://www.youtube.com/watch?v=z6hQqgvGI4Y)
+  * [(YT) The Vue Tutorial for 2018 - Learn Vue 2 in 65 Minutes](https://www.youtube.com/watch?v=78tNYZUS-ps)
+* __Links__
+  * [vuejs.org](https://vuejs.org/)
 ### 5- Ember.js 
-* __Intro__
+* __Intro__   
+Ember.js is an open-source JavaScript web framework, based on the Model–view–viewmodel pattern. It allows developers to create scalable single-page web applications
 * __Blogs__
+  *  [How to learn EmberJS in a hurry](https://medium.com/ember-ish/how-to-learn-emberjs-in-a-hurry-c6fdeae256a0)
+  *  [Working with Ember.js: Part 1](https://medium.com/@abhilashmurthy/working-with-ember-js-part-1-a35af1d2b627)
 * __Videos__
-* __Links__   
+  * [(YT) Ember Tutorials - 2 and 3(Playlist)](https://www.youtube.com/playlist?list=PLelL5s7nDFKVVPZNwfnuDG-Xe_28F1PSO)
+* __Links__
+  * [www.emberjs.com](https://www.emberjs.com/)
    
 ### Backend Frameworks   
 ### 1- Sails.js 
-* __Intro__
+* __Intro__   
+Sails.js is a Model-View-Controller web application framework developed on the top the Node.js environment (Express).
 * __Blogs__
+  * [Intro to Sails.js](https://medium.com/@josephdlawson21/intro-to-sails-js-99a2016bf37d)
 * __Videos__
-* __Links__   
+  * [(YT) Build a Sails.js App [Playlist] - Sails & API Setu](https://www.youtube.com/watch?v=AmjiDC_JUt4&list=PLillGF-RfqbZIA-9sI3T1uu7d7_CtbwPm)
+* __Links__
+  * [www.sailsjs.com](https://sailsjs.com/)
 ### 2- Express.js 
-* __Intro__
+* __Intro__   
+Express.js, or simply Express, is a web application framework for Node.js,
 * __Blogs__
+  * [Introduction to Node.js and Express.js](https://medium.com/javascript-scene/introduction-to-node-express-90c431f9e6fd)
+  * [Getting Started with ExpressJS](https://codeburst.io/getting-started-with-expressjs-3cbb279bd5e6)
 * __Videos__
-* __Links__   
+  * [(YT) React & Express Starter Pack For Full Stack Development](https://youtu.be/v0t42xBIYIs)
+  * [(YT) Express.js Tutorial: Building RESTful APIs with Node and Express](https://youtu.be/pKd0Rpw7O48)
+* __Links__
+  * [www.expressjs.com](https://expressjs.com)
 ### 3- Restify.js 
 * __Intro__
 * __Blogs__

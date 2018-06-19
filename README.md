@@ -355,12 +355,13 @@ RxJS powered state management for Angular applications, inspired by Redux.
 * __Links__   
 ### 3- redux 
 * __Intro__   
-Redux is a predictable state container for JavaScript apps. [https://redux.js.org/](https://redux.js.org/)
+Redux is a predictable state container for JavaScript apps. 
 * __Blogs__   
   * [ReactJS Todo app tutorial with Redux](https://medium.com/@nomanbinhussein/reactjs-todo-app-tutorial-with-redux-57ca14cae621)
 * __Videos__   
   * [Redux Crash Course With React](https://youtu.be/93p3LxR9xfM)
-* __Links__   
+* __Links__
+  * [https://redux.js.org/](https://redux.js.org/)
 ### 4- NGXS 
 * __Intro__    
 NGXS is a state management pattern + library for Angular. 

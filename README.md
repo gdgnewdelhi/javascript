@@ -299,15 +299,26 @@ LoopBack is a highly-extensible, open-source API framework.
 
 ### Fullstack Frameworks   
 ### 1- Meteor.js 
-* __Intro__
+* __Intro__   
+Meteor is an open source platform for web, mobile, and desktop. It's a Nodejs based full stack framework that can easily help you create Web Apps, Desktop Apps (electron.js integration), Mobile Apps (cordova integration) etc. 
 * __Blogs__
+  * [Getting Started with Meteor](https://themeteorchef.com/tutorials/getting-started-with-meteor)
+  * [Meteor JS with a hint of React](https://medium.com/tmw-interactive/meteor-js-with-a-hint-of-react-b5111cffc634)
 * __Videos__
-* __Links__   
+  * [(YT) Build A Meteor.js App In 45 Minutes](https://youtu.be/9494-2E4riQ)
+  * [(YT) What Is Meteor?](https://youtu.be/eOi3F6Kbl7E)
+  * [(YT) Everything I can teach you about Meteor in 50 minutes - Introduction, Demo and Meteor 1.5](https://youtu.be/047cpW3zkIY)
+* __Links__
+  * [www.meteor.com](https://www.meteor.com/)
 ### 2- MEAN.js 
-* __Intro__
+* __Intro__   
+Open-Source Full-Stack Solution For MEAN Applications. It can give you a headstart by providing fully enabled project (AngularJS + MongoDB + Node.js + Express.js).
 * __Blogs__
+  * [Meanjs Docs](http://meanjs.org/docs.html)
 * __Videos__
-* __Links__   
+* __Links__
+  * [www.meanjs.org](http://meanjs.org/)
+  * [https://github.com/meanjs/mean](https://github.com/meanjs/mean)
 
 ### Other Frameworks   
 ### 1- Electron.js 

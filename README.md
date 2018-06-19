@@ -10,7 +10,7 @@
 
 ## Table of Contents   
 * [Introduction](#introduction)   
-* How to use guide.
+* [How to use guide.](#how-to-use-guide)
 * [Some famous references](#some-famous-references)
   * MDN, w3schools, csstrick etc.
 * [ECMAScript (ES)](#ecmascript-es)
@@ -36,6 +36,7 @@
     * [Hapi.js](#4--hapijs)
     * [Koa.js](#5--koajs)
     * [Total.js](#6--totaljs)
+    * [LoopBack](#7--loopback)
   * [Full Stack Frameworks](#fullstack-frameworks)
     * [Meteor.js](#1--meteorjs)
     * [Mean.js](#2--meanjs) 
@@ -94,7 +95,8 @@ You can use these resources to get explanation and docs on various concepts of J
 ---
 
 ## ECMAScript (ES)   
-> ECMAScript (ES) is a scripting language specification standardized by ECMAScript International. It is used by applications to enable client-side scripting. Languages like JavaScript, Jscript and ActionScript are governed by this specification.  
+> ECMAScript (ES) is a scripting language specification standardized by ECMAScript International. It is used by applications to enable client-side scripting. Languages like JavaScript, Jscript and ActionScript are governed by this specification.    
+__Note: If you are a newcomer then we recommed you to just get your hands on ES6 and thereafter you can start learning any new framework. ES7/ES8 = ES6 + few extra features.__
 ### ES6/ES2015
 * __Intro__   
    ECMAScript 6 (ES6, often referred to as “Harmony”) is the sixth major release of the ECMAScript language specification. JS uses standards defined by ECMAScript. 
@@ -164,19 +166,37 @@ Web app is a client–server computer program which the client (including the us
 ## Frameworks   
 ### Front-End Frameworks
 ### 1- Angular 
-* __Intro__
+* __Intro__   
+Angular is a JavaScript-based open-source front-end web application framework mainly maintained by Google and its community. 
 * __Blogs__
+  * [Angular — Introduction to Reactive Extensions (RxJS)](https://medium.com/google-developer-experts/angular-introduction-to-reactive-extensions-rxjs-a86a7430a61f)
+  * [Intro to Angular Material And Angular 6 — Material Design For Angular](https://medium.com/codingthesmartway-com-blog/angular-material-and-angular-6-material-design-for-angular-6b1a3ee476f0)
+  * [Build A Real World Beautiful Web APP with Angular 6 — A to Z Ultimate Guide (2018) — PART I](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
+* __Questions__
+  * [What is the difference between Angular 1 , Angular 2 and Angular 4?](https://www.angularminds.com/blog/article/comparison-difference-between-angular1-vs-angular2-vs-angular4.html)
 * __Videos__
+  * [(YT)Angular 5 Tutorial -Complete Overview](https://youtu.be/AaNZBrP26LQ)
+  * [(YT)Learn Angular 6 in 60 Minutes - Free Beginners Crash Course by DesignCourse](https://youtu.be/z4JUm0Bq9AM)
+  * [(YT)Getting Started with Angular 6 Material (Tutorial) by DesignCourse](https://www.youtube.com/watch?v=Fcr-gM-QThc)
+  * [(YT)Setting up Angular 6 SEO in a Few Seconds? I'll show you how by DesignCourse](https://youtu.be/hxG9nuvnh-A)
 * __Links__   
 ### 2- Polymer.js 
-* __Intro__
+* __Intro__   
+Polymer is an open-source JavaScript library for building web applications using Web Components. The library is being developed by Google developers and contributors on GitHub. 
 * __Blogs__
+  * [Polymer 3.0 Preview — Building a mini card game](https://medium.com/@jecelynyeen/polymer-3-0-preview-building-a-mini-card-game-ce8948265fd6)
+  * [Getting started with Polymer 3.0](https://medium.com/@achuth.hadnoor/getting-started-with-polymer-3-0-b476f517ac0)
 * __Videos__
+  * [Web Components and the Polymer Project: Polymer 3.0 and beyond (Google I/O '18)](https://youtu.be/7CUO7PyD5zA)
 * __Links__   
 ### 3- React.js 
-* __Intro__
+* __Intro__   
+React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.
 * __Blogs__
+  * [How to build a React project from scratch using Webpack 4 and Babel](https://hackernoon.com/how-to-build-a-react-project-from-scratch-using-webpack-4-and-babel-56d4a26afd32)
+  * [Getting Started With React And GraphQL](https://medium.com/codingthesmartway-com-blog/getting-started-with-react-and-graphql-395311c1e8da)
 * __Videos__
+  * [ReactJS Tutorial for Beginners - Getting Started with React](https://youtu.be/pgAvVxowaYU)
 * __Links__   
 ### 4- Vue.js 
 * __Intro__
@@ -216,6 +236,11 @@ Web app is a client–server computer program which the client (including the us
 * __Videos__
 * __Links__   
 ### 6- Total.js 
+* __Intro__
+* __Blogs__
+* __Videos__
+* __Links__   
+### 7- LoopBack 
 * __Intro__
 * __Blogs__
 * __Videos__
@@ -399,6 +424,8 @@ You can use these channels to learn JS and its frameworks/libraries .
 | [Codecourse](https://www.youtube.com/user/phpacademy/playlists) |  Codecourse mostly talks about PHP and its frameworks but do include many other tutorials as well  |   PHP, Laravel, etc |
 | [The Coding Train](https://www.youtube.com/user/shiffman/playlists) | Coding train includes many topics like WebGL, physics in JS, tensorflow.js, ml5.js which is built on top of TF.js and many more |   WebGL, complex physics in JS, tensorflow.js, ES6 |   
 | [React Cast](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ) | ReactCasts is a good youtube channels which has many short ReactJS screencast and also covers Redux |   ReactJS , Redux , ES6 |   
+| [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) | DesignCourse covers many topics of Web Designing / Angular/ Rxjs/ Adobe softwars |   Web Designing like using SVGs in Web, Angular, Rxjs, HTML and CSS etc |   
+
 
 ## Awesome Libraries   
 * __Blogs__   

@@ -232,7 +232,7 @@ Sails.js is a Model-View-Controller web application framework developed on the t
 * __Blogs__
   * [Intro to Sails.js](https://medium.com/@josephdlawson21/intro-to-sails-js-99a2016bf37d)
 * __Videos__
-  * [(YT) Build a Sails.js App [Playlist] - Sails & API Setu](https://www.youtube.com/watch?v=AmjiDC_JUt4&list=PLillGF-RfqbZIA-9sI3T1uu7d7_CtbwPm)
+  * [(YT) Build a Sails.js App [Playlist] - Sails & API Setup](https://www.youtube.com/watch?v=AmjiDC_JUt4&list=PLillGF-RfqbZIA-9sI3T1uu7d7_CtbwPm)
 * __Links__
   * [www.sailsjs.com](https://sailsjs.com/)
 ### 2- Express.js 
@@ -247,30 +247,55 @@ Express.js, or simply Express, is a web application framework for Node.js,
 * __Links__
   * [www.expressjs.com](https://expressjs.com)
 ### 3- Restify.js 
-* __Intro__
+* __Intro__   
+Restify is a Node.js framework built to create RESTful Web services.
 * __Blogs__
+  * [Restify Quickstart](http://restify.com/docs/home/)
+  * [In Depth Guide on Building a REST API with Node.js, Restify & MongoDB](https://medium.com/getstream-io/in-depth-guide-on-building-a-rest-api-with-node-js-restify-mongodb-2c9495d6225f)
 * __Videos__
-* __Links__   
+  * [(YT) Build REST APIs in Node.js using restify](https://youtu.be/ekYCw4kwgxY)
+* __Links__
+  * [www.restify.com](http://restify.com/)
 ### 4- Hapi.js 
-* __Intro__
+* __Intro__   
+A rich Node.js framework for building applications and services. More Configuration less Code.  
 * __Blogs__
+  * [Getting Started with Hapi.js](https://scotch.io/tutorials/getting-started-with-hapi-js)
+  * [Creating RESTful API with Node.js: Hapi vs. Express](https://medium.com/@cabot_solutions/creating-restful-api-with-node-js-hapi-vs-express-ccb97a776c02)
+  * [Introduction to Hapi.js](https://simpleprogrammer.com/introduction-hapijs/)
 * __Videos__
-* __Links__   
+  * [Hapi.js Framework Crash Course](https://youtu.be/2lprC0yYeFw)
+* __Links__
+  * [www.hapijs.com](https://hapijs.com/)
 ### 5- Koa.js 
-* __Intro__
+* __Intro__   
+Koa is a Node.js web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs. 
 * __Blogs__
+  * [What is Koa.js](https://medium.com/@mindfiresolutions.usa/what-is-koa-js-fc677df30795)
+  * [Start Building Web Apps with KoaJS and TypeScript!](https://medium.com/netscape/start-building-web-apps-with-koajs-and-typescript-366264dec608)
 * __Videos__
-* __Links__   
+* __Links__
+  * [www.koajs.com](https://koajs.com/)
 ### 6- Total.js 
-* __Intro__
+* __Intro__   
+Full-featured Node.js Framework to create awesome and powerful websites, e-commerce, REST services, real-time applications or applications for IoT - Internet of Things.
 * __Blogs__
+  * [Best Ever Node.js CMS](https://medium.com/@petersirka/best-ever-node-js-cms-738a84ee6623)
+  * [Peter Sirka on Medium](https://medium.com/@petersirka)
 * __Videos__
-* __Links__   
+* __Links__
+  * [www.totaljs.com](https://www.totaljs.com/)
 ### 7- LoopBack 
-* __Intro__
+* __Intro__   
+LoopBack is a highly-extensible, open-source API framework.
 * __Blogs__
+  * [Loopback Getting Started by loopback.io](https://loopback.io/getting-started/)
+  * [How to Build a RESTful API with Authentication in 5 minutes — all from your command line](https://medium.freecodecamp.org/build-restful-api-with-authentication-under-5-minutes-using-loopback-by-expressjs-no-programming-31231b8472ca)
 * __Videos__
-* __Links__   
+  * [(YT) LoopBack REST API with Authentication](https://youtu.be/UTxhKZuVaG8)
+  * [(YT) Full Stack React & LoopBack [Playlist]](https://www.youtube.com/playlist?list=PLillGF-RfqbZjJBAu0sx_0SCuFdzdx4iY)
+* __Links__
+  * [www.loopback.io](https://loopback.io/)
 
 ### Fullstack Frameworks   
 ### 1- Meteor.js 

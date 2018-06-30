@@ -9,73 +9,79 @@
 <br/> 
 
 ## Table of Contents   
-* Introduction
-* Some famous references
+* [Introduction](#introduction)   
+* [How to use guide.](#how-to-use-guide)
+* [Some famous references](#some-famous-references)
   * MDN, w3schools, csstrick etc.
-* ECMAScript (ES)
-  * ES6/ES2015
-  * ES7/ES2016
-  * ES8/ES2017
-* How a Web App works
-* Basic Component of a Web App/Website
-  * Frontend 
-  * Backend
+* [ECMAScript (ES)](#ecmascript-es)
+  * [ES6/ES2015](#es6es2015)
+  * [ES7/ES2016](es7es2016)
+  * [ES8/ES2017](#es8es2017)
+* [How a Web App works](#how-a-web-app-works)
+* [Basic Component of a Web App/Website](#basic-component-of-a-web-appwebsite)
+  * [Frontend](#frontend) 
+  * [Backend](#backend)
 
-* Frameworks
-  * Front-End Frameworks
-    * Angular
-    * Polymer.js
-    * React.js
-    * Vue.js
-    * Ember.js
-  * Back-End Frameworks (Node.js based)
-    * Sails.js
-    * Express.js
-    * Restify.js
-    * Hapi.js
-    * Koa.js
-    * Total.js
-  * Full Stack Frameworks
-    * Meteor.js
-    * Mean.js 
-  * Other Frameworks
-    * Electron.js
-* Libraries 
-  * RxJs
-  * ngrx
-  * Redux   
-  * AngularFire   
+* [Frameworks](#frameworks)
+  * [Front-End Frameworks](#front-end-frameworks)
+    * [Angular](#1--angular)
+    * [Polymer.js](#2--polymerjs)
+    * [React.js](#3--reactjs)
+    * [Vue.js](#4--vuejs)
+    * [Ember.js](#5--emberjs)
+  * [Back-End Frameworks (Node.js based)](#backend-frameworks)
+    * [Sails.js](#1--sailsjs)
+    * [Express.js](#2--expressjs)
+    * [Restify.js](#3--restifyjs)
+    * [Hapi.js](#4--hapijs)
+    * [Koa.js](#5--koajs)
+    * [Total.js](#6--totaljs)
+    * [LoopBack](#7--loopback)
+  * [Full Stack Frameworks](#fullstack-frameworks)
+    * [Meteor.js](#1--meteorjs)
+    * [Mean.js](#2--meanjs) 
+  * [Other Frameworks](#other-frameworks)
+    * [Electron.js](#1--electronjs)
+* [Libraries](#libraries) 
+  * [RxJs](#1--rxjs)
+  * [ngrx](#2--ngrx)
+  * [Redux](#3--redux)   
+  * [AngularFire](#5--angularfire)   
   
-* Concepts- Tooling/ Linting/ Bundling etc
-  * Linters - ESLint, JSHint etc
-  * Module Bundlers - Webpack etc
-  * Task Runners- Gulp, npm Scripts, Grunt etc
-  * Package Managers- npm, yarn etc.
-  * Transpilers
-  * Testing 
-* JS is Everywhere
-  * Progressive Web Apps
-  * Augumented Reality (AR)
-  * Virtual Reality (VR)
-  * Machine Learning (Tensorflow.js, Brain.js)
+* [Concepts- Tooling/ Linting/ Bundling etc](#concepts)
+  * [Linters - ESLint, JSHint etc](#linters)
+  * [Module Bundlers - Webpack etc](#module-bundlers)
+  * [Task Runners- Gulp, npm Scripts, Grunt etc](#task-runners)
+  * [Package Managers- npm, yarn etc.](#package-managers)
+  * [Transpilers](#transpilers)
+  * [Testing](#testing) 
+* [JS is Everywhere](#js-is-everywhere)
+  * [Progressive Web Apps](#progressive-web-apps)
+  * [Augumented Reality (AR)](#augumented-reality-ar)
+  * [Virtual Reality (VR)](#virtual-reality-vr)
+  * [Machine Learning (Tensorflow.js, Brain.js)](#machine-learning-tensorflowjs-brainjs)
 
 ---------------- Awesome Random Stuff --------------------
-* Awesome Blogs
-* Awesome Videos/talks
-* Awesome Youtube Channels   
-* Awesome Libraries
-* Awesome Github
-* Awesome Free Website Templates
+* [Awesome Blogs]()
+* [Awesome Videos/talks]()
+* [Awesome Youtube Channels](#awesome-youtube-channels)   
+* [Awesome Libraries](#awesome-libraries)
+* [Awesome Github](#awesome-github)
+* [Awesome Free Website Templates](#awesome-free-websites-templates)
 
 ---
 
 ## Introduction 
-> JavaScript is the most widely deployed language in the world. Whether you’re interested in writing front-end client side code, back-end code for servers, or even game development, you’ll be able to accomplish all of this and more with JavaScript. 
+> JavaScript is the most widely deployed language in the world. Whether you’re interested in writing front-end client side code, back-end code for servers, or even game development, you’ll be able to accomplish all of this and more with JavaScript.
 
 
 In simple words, we can say that with the help of JS, one can create fully functional __dynamic website__, __Games__ , desktop apps for __Windows/Linux/Mac__ and even cross platform native apps for __Android and iOS__.   
 
---- 
+---   
+
+## How To Use Guide   
+This repo has an Index which you can brief you about all the content(TOC). This guide covers all the JS frameworks like Angular, React etc, some bleeding edge technologies like Bots/ AR / VR /ML using JS, development cycle specific topics like Linting, Testing etc and some random things like UI libraries/Ebooks etc. So, please refer to [Table of Content](#table-of-contents) to get max out of it. 
+   
 ## Some Famous References   
 You can use these resources to get explanation and docs on various concepts of JS and web .   
 
@@ -89,14 +95,15 @@ You can use these resources to get explanation and docs on various concepts of J
 ---
 
 ## ECMAScript (ES)   
-> ECMAScript (ES) is a scripting language specification standardized by ECMAScript International. It is used by applications to enable client-side scripting. Languages like JavaScript, Jscript and ActionScript are governed by this specification.  
+> ECMAScript (ES) is a scripting language specification standardized by ECMAScript International. It is used by applications to enable client-side scripting. Languages like JavaScript, Jscript and ActionScript are governed by this specification.    
+__Note: If you are a newcomer then we recommed you to just get your hands on ES6 and thereafter you can start learning any new framework. ES7/ES8 = ES6 + few extra features.__
 ### ES6/ES2015
 * __Intro__   
    ECMAScript 6 (ES6, often referred to as “Harmony”) is the sixth major release of the ECMAScript language specification. JS uses standards defined by ECMAScript. 
 * __Blogs__
-  * [JavaScript — Just another introduction to ES6](https://medium.com/sons-of-javascript/javascript-an-introduction-to-es6-1819d0d89a0f)
+  * [JavaScript — Just another introduction to ES6](https://medium.com/sons-of-javascript/javascript-an-introduction-to-es6-1819d0d89a0f)   
 * __Questions__
- 
+  * [JavaScript — WTF is ES6, ES8, ES 2017, ECMAScript… ?](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c)
 * __Videos__
   * [ES6 - Beau teaches JavaScript](https://www.youtube.com/watch?v=1mgLWu69ijU&list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
 * __Links__
@@ -105,15 +112,21 @@ You can use these resources to get explanation and docs on various concepts of J
   * [You Don't Know JS by Getify](https://github.com/getify/You-Dont-Know-JS)
    
 ### ES7/ES2016
-* __Intro__
+* __Intro__   
+ECMAScript 8 or ECMAScript 2016 was official release of year 2016.
 * __Blogs__
+  * [Node University: ES7 and ES8 Features](https://node.university/blog/1621685/es7es8)
 * __Videos__
+  * [(YT) JavaScript ES6, ES7, ES8: Learn to Code on the Bleeding Edge](https://youtu.be/nZ1DMMsyVyI)
 * __Links__   
 
 ### ES8/ES2017
-* __Intro__
+* __Intro__   
+ECMAScript 8 or ECMAScript 2017 was officially released at the end of June 2017 by TC39
 * __Blogs__
+  * [ES8 was Released and here are its Main New Features by HackerNoon](https://hackernoon.com/es8-was-released-and-here-are-its-main-new-features-ee9c394adf66)
 * __Videos__
+  * [(YT) JavaScript ES6, ES7, ES8: Learn to Code on the Bleeding Edge](https://youtu.be/nZ1DMMsyVyI)
 * __Links__
 ## How a Web App Works   
 * __Intro__   
@@ -153,74 +166,159 @@ Web app is a client–server computer program which the client (including the us
 ## Frameworks   
 ### Front-End Frameworks
 ### 1- Angular 
-* __Intro__
+* __Intro__   
+Angular is a JavaScript-based open-source front-end web application framework mainly maintained by Google and its community. 
 * __Blogs__
+  * [Angular — Introduction to Reactive Extensions (RxJS)](https://medium.com/google-developer-experts/angular-introduction-to-reactive-extensions-rxjs-a86a7430a61f)
+  * [Intro to Angular Material And Angular 6 — Material Design For Angular](https://medium.com/codingthesmartway-com-blog/angular-material-and-angular-6-material-design-for-angular-6b1a3ee476f0)
+  * [Build A Real World Beautiful Web APP with Angular 6 — A to Z Ultimate Guide (2018) — PART I](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
+* __Questions__
+  * [What is the difference between Angular 1 , Angular 2 and Angular 4?](https://www.angularminds.com/blog/article/comparison-difference-between-angular1-vs-angular2-vs-angular4.html)
 * __Videos__
-* __Links__   
+  * [(YT)Angular 5 Tutorial -Complete Overview](https://youtu.be/AaNZBrP26LQ)
+  * [(YT)Learn Angular 6 in 60 Minutes - Free Beginners Crash Course by DesignCourse](https://youtu.be/z4JUm0Bq9AM)
+  * [(YT)Getting Started with Angular 6 Material (Tutorial) by DesignCourse](https://www.youtube.com/watch?v=Fcr-gM-QThc)
+  * [(YT)Setting up Angular 6 SEO in a Few Seconds? I'll show you how by DesignCourse](https://youtu.be/hxG9nuvnh-A)
+* __Links__
+  * [www.angular.io](https://angular.io/)
+
 ### 2- Polymer.js 
-* __Intro__
+* __Intro__   
+Polymer is an open-source JavaScript library for building web applications using Web Components. The library is being developed by Google developers and contributors on GitHub. 
 * __Blogs__
+  * [Polymer 3.0 Preview — Building a mini card game](https://medium.com/@jecelynyeen/polymer-3-0-preview-building-a-mini-card-game-ce8948265fd6)
+  * [Getting started with Polymer 3.0](https://medium.com/@achuth.hadnoor/getting-started-with-polymer-3-0-b476f517ac0)
 * __Videos__
-* __Links__   
+  * [(YT) Web Components and the Polymer Project: Polymer 3.0 and beyond (Google I/O '18)](https://youtu.be/7CUO7PyD5zA)
+* __Links__
+  * [www.polymer-project.org](https://www.polymer-project.org/)
 ### 3- React.js 
-* __Intro__
+* __Intro__   
+React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.
 * __Blogs__
+  * [How to build a React project from scratch using Webpack 4 and Babel](https://hackernoon.com/how-to-build-a-react-project-from-scratch-using-webpack-4-and-babel-56d4a26afd32)
+  * [Getting Started With React And GraphQL](https://medium.com/codingthesmartway-com-blog/getting-started-with-react-and-graphql-395311c1e8da)
 * __Videos__
-* __Links__   
+  * [(YT) ReactJS Tutorial for Beginners - Getting Started with React](https://youtu.be/pgAvVxowaYU)
+* __Links__
+  * [reactjs.org](https://reactjs.org/)
 ### 4- Vue.js 
 * __Intro__
+Vue.js is an open-source JavaScript framework for building user interfaces. 
 * __Blogs__
+  * [Vue.js Developers](https://medium.com/js-dojo/tagged/vuejs)
+  * [Getting started with Vue 2](https://medium.com/viithiisys/getting-started-with-vue-2-7a2423bdcb23)
 * __Videos__
-* __Links__   
+  * [(YT) Vue JS 2 Tutorial Series(Playlist)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
+  * [(YT) Vue.js 2.0 In 60 Minutes](https://www.youtube.com/watch?v=z6hQqgvGI4Y)
+  * [(YT) The Vue Tutorial for 2018 - Learn Vue 2 in 65 Minutes](https://www.youtube.com/watch?v=78tNYZUS-ps)
+* __Links__
+  * [vuejs.org](https://vuejs.org/)
 ### 5- Ember.js 
-* __Intro__
+* __Intro__   
+Ember.js is an open-source JavaScript web framework, based on the Model–view–viewmodel pattern. It allows developers to create scalable single-page web applications
 * __Blogs__
+  *  [How to learn EmberJS in a hurry](https://medium.com/ember-ish/how-to-learn-emberjs-in-a-hurry-c6fdeae256a0)
+  *  [Working with Ember.js: Part 1](https://medium.com/@abhilashmurthy/working-with-ember-js-part-1-a35af1d2b627)
 * __Videos__
-* __Links__   
+  * [(YT) Ember Tutorials - 2 and 3(Playlist)](https://www.youtube.com/playlist?list=PLelL5s7nDFKVVPZNwfnuDG-Xe_28F1PSO)
+* __Links__
+  * [www.emberjs.com](https://www.emberjs.com/)
    
 ### Backend Frameworks   
 ### 1- Sails.js 
-* __Intro__
+* __Intro__   
+Sails.js is a Model-View-Controller web application framework developed on the top the Node.js environment (Express).
 * __Blogs__
+  * [Intro to Sails.js](https://medium.com/@josephdlawson21/intro-to-sails-js-99a2016bf37d)
 * __Videos__
-* __Links__   
+  * [(YT) Build a Sails.js App [Playlist] - Sails & API Setup](https://www.youtube.com/watch?v=AmjiDC_JUt4&list=PLillGF-RfqbZIA-9sI3T1uu7d7_CtbwPm)
+* __Links__
+  * [www.sailsjs.com](https://sailsjs.com/)
 ### 2- Express.js 
-* __Intro__
+* __Intro__   
+Express.js, or simply Express, is a web application framework for Node.js,
 * __Blogs__
+  * [Introduction to Node.js and Express.js](https://medium.com/javascript-scene/introduction-to-node-express-90c431f9e6fd)
+  * [Getting Started with ExpressJS](https://codeburst.io/getting-started-with-expressjs-3cbb279bd5e6)
 * __Videos__
-* __Links__   
+  * [(YT) React & Express Starter Pack For Full Stack Development](https://youtu.be/v0t42xBIYIs)
+  * [(YT) Express.js Tutorial: Building RESTful APIs with Node and Express](https://youtu.be/pKd0Rpw7O48)
+* __Links__
+  * [www.expressjs.com](https://expressjs.com)
 ### 3- Restify.js 
-* __Intro__
+* __Intro__   
+Restify is a Node.js framework built to create RESTful Web services.
 * __Blogs__
+  * [Restify Quickstart](http://restify.com/docs/home/)
+  * [In Depth Guide on Building a REST API with Node.js, Restify & MongoDB](https://medium.com/getstream-io/in-depth-guide-on-building-a-rest-api-with-node-js-restify-mongodb-2c9495d6225f)
 * __Videos__
-* __Links__   
+  * [(YT) Build REST APIs in Node.js using restify](https://youtu.be/ekYCw4kwgxY)
+* __Links__
+  * [www.restify.com](http://restify.com/)
 ### 4- Hapi.js 
-* __Intro__
+* __Intro__   
+A rich Node.js framework for building applications and services. More Configuration less Code.  
 * __Blogs__
+  * [Getting Started with Hapi.js](https://scotch.io/tutorials/getting-started-with-hapi-js)
+  * [Creating RESTful API with Node.js: Hapi vs. Express](https://medium.com/@cabot_solutions/creating-restful-api-with-node-js-hapi-vs-express-ccb97a776c02)
+  * [Introduction to Hapi.js](https://simpleprogrammer.com/introduction-hapijs/)
 * __Videos__
-* __Links__   
+  * [Hapi.js Framework Crash Course](https://youtu.be/2lprC0yYeFw)
+* __Links__
+  * [www.hapijs.com](https://hapijs.com/)
 ### 5- Koa.js 
-* __Intro__
+* __Intro__   
+Koa is a Node.js web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs. 
 * __Blogs__
+  * [What is Koa.js](https://medium.com/@mindfiresolutions.usa/what-is-koa-js-fc677df30795)
+  * [Start Building Web Apps with KoaJS and TypeScript!](https://medium.com/netscape/start-building-web-apps-with-koajs-and-typescript-366264dec608)
 * __Videos__
-* __Links__   
+* __Links__
+  * [www.koajs.com](https://koajs.com/)
 ### 6- Total.js 
-* __Intro__
+* __Intro__   
+Full-featured Node.js Framework to create awesome and powerful websites, e-commerce, REST services, real-time applications or applications for IoT - Internet of Things.
 * __Blogs__
+  * [Best Ever Node.js CMS](https://medium.com/@petersirka/best-ever-node-js-cms-738a84ee6623)
+  * [Peter Sirka on Medium](https://medium.com/@petersirka)
 * __Videos__
-* __Links__   
+* __Links__
+  * [www.totaljs.com](https://www.totaljs.com/)
+### 7- LoopBack 
+* __Intro__   
+LoopBack is a highly-extensible, open-source API framework.
+* __Blogs__
+  * [Loopback Getting Started by loopback.io](https://loopback.io/getting-started/)
+  * [How to Build a RESTful API with Authentication in 5 minutes — all from your command line](https://medium.freecodecamp.org/build-restful-api-with-authentication-under-5-minutes-using-loopback-by-expressjs-no-programming-31231b8472ca)
+* __Videos__
+  * [(YT) LoopBack REST API with Authentication](https://youtu.be/UTxhKZuVaG8)
+  * [(YT) Full Stack React & LoopBack [Playlist]](https://www.youtube.com/playlist?list=PLillGF-RfqbZjJBAu0sx_0SCuFdzdx4iY)
+* __Links__
+  * [www.loopback.io](https://loopback.io/)
 
 ### Fullstack Frameworks   
 ### 1- Meteor.js 
-* __Intro__
+* __Intro__   
+Meteor is an open source platform for web, mobile, and desktop. It's a Nodejs based full stack framework that can easily help you create Web Apps, Desktop Apps (electron.js integration), Mobile Apps (cordova integration) etc. 
 * __Blogs__
+  * [Getting Started with Meteor](https://themeteorchef.com/tutorials/getting-started-with-meteor)
+  * [Meteor JS with a hint of React](https://medium.com/tmw-interactive/meteor-js-with-a-hint-of-react-b5111cffc634)
 * __Videos__
-* __Links__   
+  * [(YT) Build A Meteor.js App In 45 Minutes](https://youtu.be/9494-2E4riQ)
+  * [(YT) What Is Meteor?](https://youtu.be/eOi3F6Kbl7E)
+  * [(YT) Everything I can teach you about Meteor in 50 minutes - Introduction, Demo and Meteor 1.5](https://youtu.be/047cpW3zkIY)
+* __Links__
+  * [www.meteor.com](https://www.meteor.com/)
 ### 2- MEAN.js 
-* __Intro__
+* __Intro__   
+Open-Source Full-Stack Solution For MEAN Applications. It can give you a headstart by providing fully enabled project (AngularJS + MongoDB + Node.js + Express.js).
 * __Blogs__
+  * [Meanjs Docs](http://meanjs.org/docs.html)
 * __Videos__
-* __Links__   
+* __Links__
+  * [www.meanjs.org](http://meanjs.org/)
+  * [https://github.com/meanjs/mean](https://github.com/meanjs/mean)
 
 ### Other Frameworks   
 ### 1- Electron.js 
@@ -257,12 +355,13 @@ RxJS powered state management for Angular applications, inspired by Redux.
 * __Links__   
 ### 3- redux 
 * __Intro__   
-Redux is a predictable state container for JavaScript apps. [https://redux.js.org/](https://redux.js.org/)
+Redux is a predictable state container for JavaScript apps. 
 * __Blogs__   
   * [ReactJS Todo app tutorial with Redux](https://medium.com/@nomanbinhussein/reactjs-todo-app-tutorial-with-redux-57ca14cae621)
 * __Videos__   
   * [Redux Crash Course With React](https://youtu.be/93p3LxR9xfM)
-* __Links__   
+* __Links__
+  * [https://redux.js.org/](https://redux.js.org/)
 ### 4- NGXS 
 * __Intro__    
 NGXS is a state management pattern + library for Angular. 
@@ -388,6 +487,8 @@ You can use these channels to learn JS and its frameworks/libraries .
 | [Codecourse](https://www.youtube.com/user/phpacademy/playlists) |  Codecourse mostly talks about PHP and its frameworks but do include many other tutorials as well  |   PHP, Laravel, etc |
 | [The Coding Train](https://www.youtube.com/user/shiffman/playlists) | Coding train includes many topics like WebGL, physics in JS, tensorflow.js, ml5.js which is built on top of TF.js and many more |   WebGL, complex physics in JS, tensorflow.js, ES6 |   
 | [React Cast](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ) | ReactCasts is a good youtube channels which has many short ReactJS screencast and also covers Redux |   ReactJS , Redux , ES6 |   
+| [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) | DesignCourse covers many topics of Web Designing / Angular/ Rxjs/ Adobe softwars |   Web Designing like using SVGs in Web, Angular, Rxjs, HTML and CSS etc |   
+
 
 ## Awesome Libraries   
 * __Blogs__   

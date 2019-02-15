@@ -381,35 +381,90 @@ AngularFire is a library that can help you to use firebase with Angular. [https:
 
 ## Concepts
 ### Linters   
-* __Intro__
+* __Intro__   
+Linters are automated tools that help programmers increase quality of their code.
 * __Blogs__
+	* [What are JavaScript linters?](https://www.codereadability.com/what-are-javascript-linters/)
+	* [Thoughts about JavaScript linters and “lint driven development"](https://medium.com/@danielsternlicht/thoughts-about-javascript-linters-and-lint-driven-development-7c8f17e7e1a0)
+	* [Four options to help you get started linting your JavaScript](https://blog.logrocket.com/four-options-to-help-you-get-started-linting-your-javascript-b4b829828648?gi=7ad7022680a1)
 * __Videos__
-* __Links__   
+	* [Atom Editor: Linters & Hinters](https://www.youtube.com/watch?v=dG9EEkSCbWM)
+ 	* [VSCode Tutorials: Linting with ESLint](https://www.youtube.com/watch?v=cMrDePs86Uo)
+ 	* [ESLint Quickstart: find errors automatically](https://www.youtube.com/watch?v=qhuFviJn-es)
+* __Links__
+ 	* [http://www.jslint.com/](http://www.jslint.com/)
+ 	* [http://jshint.com/](http://jshint.com/)
+ 	* [https://eslint.org/](https://eslint.org/)
 ### Module Bundlers   
-* __Intro__
+* __Intro__     
+Combining(bundling) various modules used by a project into one single organized module is known as module bundling. Bundling Modules has various benefits like lowering App load time, automatic tree shaking etc. Some commonly used Javascript module bundlers are Browserify, RequireJS, Webpack.
 * __Blogs__
+	* [A Beginner’s Guide to Webpack 4 and Module Bundling](https://www.sitepoint.com/beginners-guide-webpack-module-bundling/)
+	* [JavaScript Modules Part 2: Module Bundling](https://medium.freecodecamp.org/javascript-modules-part-2-module-bundling-5020383cf306)
+	* [Understanding JavaScript Modules: Bundling & Transpiling](https://www.sitepoint.com/javascript-modules-bundling-transpiling/)
 * __Videos__
-* __Links__   
+	* [JS Module Bundlers, Totally Tooling Tips](https://www.youtube.com/watch?v=OhPUaEuEaXk)
+ 	* [Webpack Crash Course](https://www.youtube.com/watch?v=lziuNMk_8eQ)
+ 	* [Parcel](https://www.youtube.com/watch?v=b-6BeS-22yw)
+* __Links__ 
+ 	* [https://webpack.js.org/](https://webpack.js.org/)
+ 	* [https://requirejs.org/](https://requirejs.org/)
+ 	* [http://browserify.org/](http://browserify.org/)
 ### Task Runners   
-* __Intro__
+* __Intro__   
+Task runners are tools used to automate tasks in the development process. They can be operations such as the compilation of TypeScript files or the compression of JavaScript files. The two most popular JavaScript task runners are Grunt and Gulp.
 * __Blogs__
+	* [Harness Machines](https://www.smashingmagazine.com/2016/06/harness-machines-productive-task-runners/)
+	* [Grunt Introduction](https://www.tutorialspoint.com/grunt/)
+	* [Gulp Introduction](https://www.tutorialspoint.com/gulp/)
 * __Videos__
+	* [Grunt JS Tutorial #1 - What is a Task Runner?](https://www.youtube.com/watch?v=KAD-l__vek4)
+ 	* [Introduction to Gulp JavaScript Task Runner - Step by Step Tutorial](https://www.youtube.com/watch?v=1NzZg77VqdY)
 * __Links__   
+ 	* [https://gruntjs.com/](https://gruntjs.com/)
+ 	* [https://gulpjs.com/](https://gulpjs.com/)
 ### Package Managers   
-* __Intro__
+* __Intro__   
+Package managers are pieces of softwares that let you manage the dependencies (external code written by you or someone else) that your project needs to work correctly.
 * __Blogs__
+	* [A Beginner’s Guide to npm — the Node Package Manager](https://www.sitepoint.com/beginners-guide-node-package-manager/)
+	* [Yarn vs npm - which Node package manager to use in 2018?](https://blog.risingstack.com/yarn-vs-npm-node-js-package-managers/)
+	* [Introduction to Yarn](https://flaviocopes.com/yarn/)
 * __Videos__
+	* [Introduction to NPM](https://www.youtube.com/watch?v=jHDhaSSKmB0)
+ 	* [Yarn Crash Course](https://www.youtube.com/watch?v=g9_6KmiBISk)
 * __Links__   
+ 	* [https://www.npmjs.com/](https://www.npmjs.com/)
+ 	* [https://yarnpkg.com/en/](https://yarnpkg.com/en/)
+ 	* [https://bower.io/](https://bower.io/)
 ### Transpilers   
-* __Intro__
+* __Intro__   
+Transpilers, or source-to-source compilers, are tools that read source code written in one programming language, and produce the equivalent code in another language. Languages you write that transpile to JavaScript are often called compile-to-JS languages, and are said to target JavaScript.
 * __Blogs__
+	* [JavaScript Transpilers: What They Are & Why We Need Them](https://scotch.io/tutorials/javascript-transpilers-what-they-are-why-we-need-them)
+	* [A Comparison of Different Javascript Transpilers](http://www.discoversdk.com/blog/a-comparison-of-different-javascript-transpilers)
 * __Videos__
+	* [ES6 and Typescript Tutorial - 2 - Transpiler](https://www.youtube.com/watch?v=dVut_aE2XX8)
+ 	* [Netflix JavaScript Talks - Transpilers: Bridge to the Future](https://www.youtube.com/watch?v=M1qm-AWWu-M)
 * __Links__   
+ 	* [https://www.typescriptlang.org/](https://www.typescriptlang.org/)
+ 	* [https://coffeescript.org/](https://coffeescript.org/)
+ 	* [Languages The compile to Js](https://github.com/jashkenas/coffeescript/wiki/list-of-languages-that-compile-to-js)
 ### Testing   
-* __Intro__
+* __Intro__   
+Software testing is defined as an activity to check whether the actual results match the expected results and to ensure that the system is Defect free. Generally there are three types of testing methods, Unit testing, Integration testing and End to End testing.
 * __Blogs__
+	* [An Overview of JavaScript Testing in 2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
+	* [Unit Testing in JavaScript with Mocha](https://www.taniarascia.com/unit-testing-in-javascript/)
+	* [Testing Angular with Jasmine and Karma](https://scotch.io/tutorials/testing-angular-with-jasmine-and-karma-part-1)
 * __Videos__
+	* [Intro To JavaScript Unit Testing With Mocha JS & Chai](https://www.youtube.com/watch?v=MLTRHc5dk6s)
+ 	* [Testing Angular 2+ Apps with Jasmine and Karma](https://www.youtube.com/watch?v=yG4FH60fhUE)
+ 	* [Introduction To Testing With Jest - React Testing For Beginners](https://www.youtube.com/watch?v=D9DdY2WmM-s)
 * __Links__   
+ 	* [https://mochajs.org/](https://mochajs.org/)
+ 	* [https://karma-runner.github.io](https://karma-runner.github.io/latest/index.html)
+ 	* [https://www.cypress.io/](https://www.cypress.io/)
 
 
 
